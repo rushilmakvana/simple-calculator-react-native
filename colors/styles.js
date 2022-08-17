@@ -1,0 +1,15 @@
+export const colors = {
+  darkGreen: "rgb(45 ,58, 45)",
+  lightBlack: "rgb(33, 33 ,33)",
+  defaultButton: "rgb(36 ,40, 36)",
+  highlightedBtn: "rgb(164 ,239, 224)",
+  operator: "rgb(145, 168 ,151)",
+  inputColor: "rgb(209, 209 ,209)",
+  ansColor: "rgb(156, 156, 156)",
+  LightInputBg: "rgb(203, 203 ,203)",
+  LightBg: "rgb(224, 224, 224)",
+  lightDefaultBtn: "rgb(210 ,210, 210)",
+  lightHighlightedBtn: "rgb(107, 210 ,189)",
+  lightInputColor: "rgb(37 ,37 ,37)",
+  lightAnsColor: "rgb(52 ,52 ,52)",
+};
